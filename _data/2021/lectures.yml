@@ -96,7 +96,7 @@ abstract: "In this session we will discuss learning multilingual word and senten
     - "Mikel Artetxe and Holger Schwenk. 2018. [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond.](https://arxiv.org/pdf/1812.10464.pdf) Transactions of the Association for Computational Linguistics."
     - "Nooralahzadeh, F., Bekoulis, G., Bjerva, J., & Augenstein, I. (2020). [Zero-Shot Cross-Lingual Transfer with Meta Learning](https://arxiv.org/pdf/2003.02739.pdf). arXiv preprint arXiv:2003.02739."
   discussion: 
-  slides: 
+  slides: resources/slides/multilingual-models.pdf
   further:
   code: 
   data:   
